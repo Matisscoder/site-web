@@ -1,0 +1,23 @@
+
+h1{
+    color: blue;
+    border: 5px solid;
+    border-color: brown;
+    box-shadow:  10px 10px;
+    text-align: center;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+ul {
+    display:flex;
+}
+li{
+    margin-top: 20px;
+    margin-bottom: 50px;
+    margin-right: 100px;
+    margin-right: 20px;
+}
+P{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: underline red;
+}
