@@ -1,10 +1,11 @@
 header{
     background-color: blue;
+    height: 183px;
 }
 header ul li a:hover {
     color: #007bff;
     height: 300px;
-    
+
 }
 h1{
     color: aliceblue;
@@ -29,4 +30,19 @@ P{
 }
 a{
     color: aliceblue;
+}
+.contenue{
+    display: flex;
+    justify-content: center;
+
+}
+.texte{
+    width: 300px;
+}
+img{
+    display: table-column ;
+}
+footer{
+    background-color: blue;
+    
 }
