@@ -1,0 +1,51 @@
+header{
+    background-color: rgb(42, 42, 170);
+    height: 183px;
+}
+header ul li a:hover {
+    color: #007bff;
+    height: 300px;
+
+}
+header ul li{
+    text-decoration: none;
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+    margin: 0 auto;
+    width: 60%;
+    margin-top: -100px ;
+}
+ul {
+    display:flex;
+    justify-content: center;
+    list-style-type: none ;
+    padding: 0px;
+    margin: 0px;
+}
+li{
+    margin: 0 20px;
+}
+P{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: underline red;
+}
+a{
+    color: aliceblue;
+}
+.contenue{
+    display: flex;
+    justify-content: center;
+
+}
+.textes{
+    width: 300px;
+}
+img{
+    display: table-column ;
+}
+footer{
+    background-color: rgba(0, 0, 255, 0.541);
+    
+}
