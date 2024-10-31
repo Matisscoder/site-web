@@ -1,11 +1,14 @@
 header{
-    background-color: blue;
+    background-color: rgb(42, 42, 170);
     height: 183px;
 }
 header ul li a:hover {
     color: #007bff;
     height: 300px;
 
+}
+header ul li{
+    text-decoration: none;
 }
 h1{
     color: aliceblue;
@@ -43,6 +46,6 @@ img{
     display: table-column ;
 }
 footer{
-    background-color: blue;
+    background-color: rgba(0, 0, 255, 0.541);
     
 }
